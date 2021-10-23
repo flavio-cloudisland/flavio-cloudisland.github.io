@@ -2,14 +2,13 @@
 
 Hello there, i'm Flavio. Now I'm 13 but on December i'll turn 14. And that's great because i have the legal age to do many things, of curse not all, but many things we’ll be avabible.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## If you wanna contact me
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Here's the information
 
 ```markdown
-Syntax highlighted code block
+# Email Adresses
 
 # Header 1
 ## Header 2
