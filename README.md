@@ -1,6 +1,6 @@
 # Hello from Flavio!
 
-You can use the [editor on GitHub](https://github.com/flavio-cloudisland/flavio-cloudisland.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Hello there, i'm Flavio. Now i'm 13 but on December i'll turn 14. And that's great because i have the legal age to do many thing, of curse not all, but more thing we’ll be avabible.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
