@@ -9,7 +9,7 @@ Here's the information
 
 ```markdown
 
-*Email Adresses*
+**Email Adresses**
 
 # Header 1
 ## Header 2
